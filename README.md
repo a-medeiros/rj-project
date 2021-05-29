@@ -6,3 +6,6 @@ Neste projeto mostro um pouco da beleza do Rio de Janeiro.
 - HTML
 - CSS
 - JavaScript
+
+## Deploy
+https://rj-project.netlify.app/
