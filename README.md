@@ -1,11 +1,7 @@
 # RJ project
-## Descrição
-Neste projeto mostro um pouco da beleza do Rio de Janeiro.
+Este site tem como objetivo mostrar a beleza do Rio de Janeiro.
 
-## Tecnologias usadas
+## Tecnologias
 - HTML
 - CSS
 - JavaScript
-
-## Deploy
-https://rj-project.netlify.app/
